@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "swc"
+carpentry: "lc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Library Carpentry Workshop: University of Calgary Libraries"
 
 
 #------------------------------------------------------------
@@ -26,7 +26,7 @@ kind: "workshop"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "chris@carpentries.org"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
